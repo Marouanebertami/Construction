@@ -1,4 +1,4 @@
-# Construction
+# Construction Theme
 WordPress Template
 
 We Are creating a new WordPress Template Name it Construction 
